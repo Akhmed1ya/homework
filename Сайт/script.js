@@ -1,1 +1,1 @@
-alert('Are you Chelsea fan? ')
+alert('Welcome ')
